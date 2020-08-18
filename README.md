@@ -1,0 +1,2 @@
+# alokblogstatic
+Static blog
